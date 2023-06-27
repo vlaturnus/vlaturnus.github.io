@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "The Economics of Decentralized Autonomous Organizations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Within Decentralized Autonomous Organizations (DAOs), founders extend ownership stakes with decision-making rights to numerous new investors. In this equity partnership model, investors assume dual roles as owners and managers of the start-up, empowering them to democratically determine corporate actions, incentives, and responsibilities. This chapter explores the economic dynamics within these democratic organizations and highlights the significant impact of investor activism and voting participation on performance, even across varying degrees of ownership structures.'
+date: 2023-04-14
+venue: 'Working Paper'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320196'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
