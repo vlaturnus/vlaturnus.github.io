@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Valerie Laturnus"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Valerie Laturnus"
 description              : &description "personal description"
