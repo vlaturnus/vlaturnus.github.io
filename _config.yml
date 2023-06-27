@@ -86,7 +86,7 @@ author:
   location         : "Frankfurt am Main, Germany"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3412770"
+  SSRN    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3412770"
   email            : "laturnus@finance.uni-frankfurt.de"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
