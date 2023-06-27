@@ -7,6 +7,4 @@ paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3720758'
 ---
 
 
-[Download paper here][SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3720758)
-
 
