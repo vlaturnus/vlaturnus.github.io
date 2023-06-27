@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Valerie Laturnus"
+  name             : ""
   avatar           : "profile.png.jpg"
-  bio              : "Research Associate"
+  bio              : ""
   location         : "Frankfurt am Main, Germany"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
