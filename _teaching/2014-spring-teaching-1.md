@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "FinTech Seminar"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Goethe University, Department of Finance"
+date: 2018-10-01 -- 2023-08-31
+location: "Frankfurt am Main, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The seminar deals with current topics in the field of banking. The students analyze current developments in the financial sector using a variety of topics and research.
 
-Heading 1
+# Topics
 ======
 
-Heading 2
-======
+1 Machine Learning im Asset Management
+2 Textual Analysis im Asset Management
+3 Meme Stock Frenzy
+4 Financial Analysts
+5 Blockchain, ICOs & Tokenized Assets
+6 Stablecoins
+7 Central Bank Digital Currency
+8 Governance in Decentralized Finance
+9 Crypto Lending & Savings
+10 Decentralized exchanges
 
-Heading 3
-======
