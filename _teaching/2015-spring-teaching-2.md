@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Banking Risk Management Frameworks"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master course"
+venue: "Goethe University Frankfurt, Department of Finance"
+date: 2018-10-01 -- 2023-01-31
+location: "Frankfurt am Main, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
