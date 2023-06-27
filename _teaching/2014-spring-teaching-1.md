@@ -12,7 +12,7 @@ The seminar deals with current topics in the field of banking. The students anal
 # Topics
 ======
 
-1 Machine Learning im Asset Management
+1 Machine Learning im Asset Management 
 2 Textual Analysis im Asset Management
 3 Meme Stock Frenzy
 4 Financial Analysts
