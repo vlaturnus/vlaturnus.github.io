@@ -14,13 +14,15 @@ Valerie Laturnus
 ------
 
 
-I am a Research Associate at Goethe University Frankfurt.
+I am a Research Associate at the Department of Banking and Finance, Goethe University Frankfurt.
 
 My research interests include:
 - Corporate Finance
+- Sustainable Finance
 - FinTechs and Blockchain Economics
 - Machine Learning and Data Science
 
 
 ------
 
+[Curriculum Vitae](https://vlaturnus.github.io/files/CV.pdf)
