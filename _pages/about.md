@@ -14,7 +14,7 @@ Valerie Laturnus
 ------
 
 
-I am an Assistant Professor of Finance at Durham University Business School.
+I am an Assistant Professor of Finance at Durham University Business School. Prior to joining Durham, I obtained my Ph.D. in Financial Economics from Goethe University Frankfurt.
 
 My research interests include:
 - Blockchain Economics
@@ -27,3 +27,10 @@ My research interests include:
 ------
 
 [Curriculum Vitae](https://vlaturnus.github.io/files/CV.pdf)
+
+
+------
+
+Contact: 
+University Business School
+Mill Hill Lane, Durham DH1 3LB, UK
