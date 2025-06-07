@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Accounting, Taxation, and Finance, Martin Luther University Halle‑Wittenberg, 2018
 * Ph.D  in Financial Economics, Goethe University Frankfurt, 2023
+* M.Sc. in Accounting, Taxation, and Finance, Martin Luther University Halle‑Wittenberg, 2018
+
 
 Work experience
 ======
