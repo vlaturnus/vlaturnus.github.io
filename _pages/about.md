@@ -26,7 +26,7 @@ My research interests include:
 
 ------
 
-[Curriculum Vitae](https://vlaturnus.github.io/vlaturnus.github.io/files/CV_Laturnus.pdf)
+[Curriculum Vitae](http://vlaturnus.github.io/files/CV_Laturnus.pdf)
 
 
 ------
