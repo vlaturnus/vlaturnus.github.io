@@ -14,12 +14,13 @@ Valerie Laturnus
 ------
 
 
-I am a Research Associate at the Department of Banking and Finance, Goethe University Frankfurt.
+I am an Assistant Professor of Finance at Durham University Business School.
 
 My research interests include:
+- Blockchain Economics
+- Decentralized Finance (DeFi), Decentralized Autonomous Organizations (DAO)
+- Financial Technology
 - Corporate Finance
-- Sustainable Finance
-- FinTechs and Blockchain Economics
 - Machine Learning and Data Science
 
 
