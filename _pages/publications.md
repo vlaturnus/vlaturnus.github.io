@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Publications"
@@ -32,8 +31,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 
 
 
