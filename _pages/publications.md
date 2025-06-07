@@ -15,7 +15,7 @@ Publications
 
 Working Paper
 ======
-  <ul>{% for post in site.post %}
+  <ul>{% for post in site.posts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
