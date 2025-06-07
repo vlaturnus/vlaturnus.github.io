@@ -32,5 +32,5 @@ My research interests include:
 ------
 
 Contact: 
-University Business School
+University Business School,
 Mill Hill Lane, Durham DH1 3LB, UK
