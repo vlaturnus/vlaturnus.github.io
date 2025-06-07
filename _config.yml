@@ -83,12 +83,12 @@ author:
   name             : ""
   avatar           : "profile.png.jpg"
   bio              : ""
-  location         : "Frankfurt am Main, Germany"
+  location         : "Durham, United Kingdom"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   SSRN              : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3412770"
-  email            : "laturnus@finance.uni-frankfurt.de"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  email            : "valerie.laturnus@durham.ac.uk"
+  researchgate     :  "https://www.researchgate.net/profile/Valerie-Laturnus"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/valerielaturnus/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
