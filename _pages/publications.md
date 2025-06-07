@@ -11,11 +11,7 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Working Paper
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
 Talks
