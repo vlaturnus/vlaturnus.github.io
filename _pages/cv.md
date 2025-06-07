@@ -17,11 +17,9 @@ Education
 
 Work experience
 ======
-* 2021-2022: Data Scientist
-  * Averroes Concept Lounge GmbH
+* 2021-2022: Data Scientist, Averroes Concept Lounge GmbH
 
-* 2022: Freelance Data Scientist
-  * Dealcode GmbH
+* 2022: Freelance Data Scientist, Dealcode GmbH
 
   
 Skills
