@@ -121,8 +121,8 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
+  - files
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
