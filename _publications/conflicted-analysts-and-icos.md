@@ -1,4 +1,3 @@
-
 ---
 title: "Conflicted Analysts and Initial Coin Offerings"
 collection: publications
