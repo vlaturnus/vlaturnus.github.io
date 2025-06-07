@@ -13,10 +13,10 @@ author_profile: true
   
 Working Paper
 ======
-  <ul>{% for post in site.posts reversed %}
-    {% include archive-single-posts-cv.html  %}
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+  
 
 Talks
 ======
