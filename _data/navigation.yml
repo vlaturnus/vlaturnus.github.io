@@ -13,7 +13,8 @@ main:
     url: "/files/resume.pdf"
   
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: https://scholar.google.com/citations?user=-2sELVsAAAAJ&hl=en
 
 #  - title: "Talks"
 #    url: /talks/    
