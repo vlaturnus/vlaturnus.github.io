@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Valerie Laturnus"
 title_separator          : "-"
 name                     : &name "Valerie Laturnus"
 description              : &description "I'm an assistant professor of finance at Durham University Business School."
@@ -23,7 +23,7 @@ repository               : "vlaturnus/vlaturnus.github.io"
 author:
   # Biographic information
   avatar           : "DSC_profile.jpg"
-  name             : "Valerie Laturnus"
+  name             : # URL "Valerie Laturnus"
   pronouns         : # example: "she/her"  
   bio              : # URL
   location         : "Durham, United Kingdom"
