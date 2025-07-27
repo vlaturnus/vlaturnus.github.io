@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Valerie Laturnus"
 title_separator          : "-"
-name                     : &name "Valerie Laturnus"
+name                     : &name "Homepage"
 description              : &description "I'm an assistant professor of finance at Durham University Business School."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,11 +25,11 @@ author:
   avatar           : "DSC_profile.jpg"
   name             : "Valerie Laturnus"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : # URL
   location         : "Durham, United Kingdom"
-  employer         : ""
+  employer         : # URL
   uri              : # URL
-  email            : "" 
+  email            : # URL
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-3327-8535"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
