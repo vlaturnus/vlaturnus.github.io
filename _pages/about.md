@@ -19,14 +19,34 @@ Working Papers
 <br>
 Media: <a href="https://www.bloomberg.com/news/articles/2023-05-05/finland-s-missing-millions-show-traders-are-still-exploiting-tax?embedded-checkout=true">Bloomberg</a>
 
-How Do Shareholder Defaults Influence Corporate Governance in DeFi lending? (with [Le (Tim) Dong](https://www.timcrypto.com/) and [Hao Zhang]([https://pages.github.com/](https://scholar.google.com/citations?user=7yWh0ucAAAAJ&hl=de))), 2025.
+<br>
 
-Credit Cycles in Tokenized Real Estate Markets (with [Daniel Ruf](https://sites.google.com/view/daniel-ruf) and [Wenqian Huang](https://scholar.google.com/citations?user=LsaCmFgAAAAJ&hl=en)), 2025.
+<strong style="color: var(--global-link-color); text-decoration: underline;">
+  How Do Shareholder Defaults Influence Corporate Governance in DeFi Lending?
+</strong>  
+(with <a href="https://www.timcrypto.com/"><strong>Le (Tim) Dong</strong></a> and <a href="https://scholar.google.com/citations?user=7yWh0ucAAAAJ&hl=de"><strong>Hao Zhang</strong></a>), 2025.
 
-The Market for Corporate Control in DeFi (with [Michele Fabi](https://michelefabi.com/) and [Romain Rossello](https://scholar.google.com/citations?user=Mnhti80AAAAJ&hl=fr)), 2025.
+<br>
 
-The Economics of Decentralized Autonomous Organizations'', 2023.
-Media: [YouTube](https://www.youtube.com/watch?v=QZyDRweEl1w)
+<strong style="color: var(--global-link-color); text-decoration: underline;">
+  Credit Cycles in Tokenized Real Estate Markets
+</strong>  
+(with <a href="https://sites.google.com/view/daniel-ruf"><strong>Daniel Ruf</strong></a> and <a href="https://scholar.google.com/citations?user=LsaCmFgAAAAJ&hl=en"><strong>Wenqian Huang</strong></a>), 2025.
+
+<br>
+
+<strong style="color: var(--global-link-color); text-decoration: underline;">
+  The Market for Corporate Control in DeFi
+</strong>  
+(with <a href="https://michelefabi.com/"><strong>Michele Fabi</strong></a> and <a href="https://scholar.google.com/citations?user=Mnhti80AAAAJ&hl=fr"><strong>Romain Rossello</strong></a>), 2025.
+
+<br>
+
+<strong style="color: var(--global-link-color); text-decoration: underline;">
+  The Economics of Decentralized Autonomous Organizations
+</strong>, 2023.  
+<br>
+Media: <a href="https://www.youtube.com/watch?v=QZyDRweEl1w">YouTube</a>
 
 
 Published Papers
