@@ -12,9 +12,12 @@ I am an Assistant Professor of Finance at Durham University Business School.
 
 Working Papers
 ======
-Financial Market Misconduct and Public Enforcement: The Case of Cum-Ex Trading
-(with [Mark Wahrenburg](https://www.old.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/prof-dr-mark-wahrenburg/team/prof-dr-wahrenburg.html)), 2024.
-Media: [Bloomberg](https://www.bloomberg.com/news/articles/2023-05-05/finland-s-missing-millions-show-traders-are-still-exploiting-tax?embedded-checkout=true)
+<strong style="color: var(--global-link-color); text-decoration: underline;">
+  Financial Market Misconduct and Public Enforcement: The Case of Cum-Ex Trading
+</strong>
+(with <a href="https://www.old.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/prof-dr-mark-wahrenburg/team/prof-dr-wahrenburg.html"><strong>Mark Wahrenburg</strong></a>), 2024.  
+<br>
+Media: <a href="https://www.bloomberg.com/news/articles/2023-05-05/finland-s-missing-millions-show-traders-are-still-exploiting-tax?embedded-checkout=true">Bloomberg</a>
 
 How Do Shareholder Defaults Influence Corporate Governance in DeFi lending? (with [Le (Tim) Dong](https://www.timcrypto.com/) and [Hao Zhang]([https://pages.github.com/](https://scholar.google.com/citations?user=7yWh0ucAAAAJ&hl=de))), 2025.
 
