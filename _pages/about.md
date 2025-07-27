@@ -51,8 +51,19 @@ Media: <a href="https://www.youtube.com/watch?v=QZyDRweEl1w">YouTube</a>
 
 Published Papers
 ======
-Conflicted Analysts and Initial Coin Offerings (with Andreas Barth, Sasan Mansouri, and Alexander F. Wagner), Management Science, Vol. 69, No. 11 (2023), pp.6417‑7150
+<strong style="color: #007acc; text-decoration: underline;">
+  Conflicted Analysts and Initial Coin Offerings
+</strong>  
+(with <strong>Andreas Barth</strong>, <strong>Sasan Mansouri</strong>, and <strong>Alexander F. Wagner</strong>),  
+<i>Management Science</i>, Vol. 69, No. 11 (2023), pp. 6417–7150.
 
-Conflicts of Interest and Market Failures in Unregulated Capital Markets: Evidence from ICO Analysts (with Andreas Barth, Sasan Mansouri, and Alexander F. Wagner), Chapter in Blockchain Scholars Book, Forthcoming, edited by Daniel Liebau and Simon Trimborn, Springer Nature
+<br>
+
+<strong style="color: #007acc; text-decoration: underline;">
+  Conflicts of Interest and Market Failures in Unregulated Capital Markets: Evidence from ICO Analysts
+</strong>  
+(with <strong>Andreas Barth</strong>, <strong>Sasan Mansouri</strong>, and <strong>Alexander F. Wagner</strong>),  
+Chapter in <i>Blockchain Scholars Book</i>, Forthcoming, edited by Daniel Liebau and Simon Trimborn, Springer Nature.
+
 
 
