@@ -40,8 +40,7 @@ Media: <a href="https://www.bloomberg.com/news/articles/2023-05-05/finland-s-mis
 <br>
 
 <strong style="color: #007acc; font-weight: bold;">
-  The Economics of Decentralized Autonomous Organizations
-</strong>, 2023.  
+  The Economics of Decentralized Autonomous Organizations</strong>, 2023.  
 Media: <a href="https://www.youtube.com/watch?v=QZyDRweEl1w">YouTube</a>
 <br><br>
 
