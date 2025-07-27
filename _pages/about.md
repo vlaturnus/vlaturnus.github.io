@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at Durham University Business School. I have obtained a Ph.D. in Financial Economics from Goethe Frankfurt University in April 2023. My research interests primarily lie in the fields of corporate finance, private equity, entrepreneurship, blockchain economics, and data science.
+I am an Assistant Professor of Finance at Durham University Business School. I obtained my Ph.D. in Financial Economics from Goethe University Frankfurt in April 2023. My research interests primarily lie in the fields of corporate finance, private equity, entrepreneurship, blockchain economics, and data science.
 <br>
 <br>
 
