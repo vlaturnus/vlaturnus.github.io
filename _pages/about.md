@@ -19,6 +19,8 @@ Research Interests
 - Data Science, Machine Learning, Artificial Intelligence (AI)
 
 
+{% include publications.md %}
+
 Published Papers
 ======
 
