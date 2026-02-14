@@ -1,6 +1,6 @@
 ---
 title: "Conflicts of Interest and Market Failures in Unregulated Capital Markets: Evidence from ICO Analysts"
-coauthors: "Joint with Andreas Barth, Sasan Mansouri, and Alexander F. Wagner"
+coauthors: "Andreas Barth, Sasan Mansouri, and Alexander F. Wagner"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-10-01-conflicts-of-interest-and-market-failures-in-unregulated-capital-markets
