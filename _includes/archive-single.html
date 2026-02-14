@@ -42,6 +42,15 @@
         </a>
       </div>
     {% endif %}
+
+    {% if post.media_url %}
+      <p>
+        <strong>Media:</strong>
+        <a href="{{ post.media_url }}" target="_blank" rel="noopener">
+          {{ post.media_label }}
+        </a>
+      </p>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta">
