@@ -1,6 +1,6 @@
 ---
-title: "Delegated Control, Agency Conflicts and Governance Cycles in Token-Based Platforms"
-coauthors: "Michele Fabi and Romain Rossello"
+title: "Decentralized Autonomous Organizations"
+coauthors: "Alfred Lehar"
 collection: publications
 category: conferences
 permalink: /publication/2026-05-01-decentralized-autonomous-organizations
