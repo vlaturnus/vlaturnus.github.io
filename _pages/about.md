@@ -7,9 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at Durham University Business School. I obtained my Ph.D. in Financial Economics from Goethe University Frankfurt in April 2023. My research interests primarily lie in the fields of corporate finance, private equity, entrepreneurship, blockchain economics, and data science.
+I am an Assistant Professor of Finance at Durham University Business School. I obtained my Ph.D. in Financial Economics from Goethe University Frankfurt in April 2023.
 <br>
 <br>
+
+Research Interests
+======
+- Financial Technology
+- Blockchain Economics, Decentralized Finance
+- Corporate Finance, Corporate Governance
+- Data Science, Machine Learning, Artificial Intelligence (AI)
+
+
+Published Papers
+======
+
+<strong style="color: #007acc; font-weight: bold;">
+  Conflicted Analysts and Initial Coin Offerings
+</strong>  
+(with <span style="text-decoration: underline; color: #4e555b;">Andreas Barth</span>, <span style="text-decoration: underline; color: #4e555b;">Sasan Mansouri</span>, and <span style="text-decoration: underline; color: #4e555b;">Alexander F. Wagner</span>),  
+<i>Management Science</i>, Vol. 69, No. 11 (2023), pp. 6417–7150.
+<br>
+
+<strong style="color: #007acc; font-weight: bold;">
+  Conflicts of Interest and Market Failures in Unregulated Capital Markets: Evidence from ICO Analysts
+</strong>  
+(with <span style="text-decoration: underline; color: #4e555b;">Andreas Barth</span>, <span style="text-decoration: underline; color: #4e555b;">Sasan Mansouri</span>, and <span style="text-decoration: underline; color: #4e555b;">Alexander F. Wagner</span>),  
+Chapter in <i>Blockchain Scholars Book</i>, Forthcoming, edited by Daniel Liebau and Simon Trimborn, Springer Nature.
+
+
 
 Working Papers
 ======
@@ -45,21 +71,6 @@ Media: <a href="https://www.youtube.com/watch?v=QZyDRweEl1w">YouTube</a>
 <br><br>
 
 
-Published Papers
-======
-
-<strong style="color: #007acc; font-weight: bold;">
-  Conflicted Analysts and Initial Coin Offerings
-</strong>  
-(with <span style="text-decoration: underline; color: #4e555b;">Andreas Barth</span>, <span style="text-decoration: underline; color: #4e555b;">Sasan Mansouri</span>, and <span style="text-decoration: underline; color: #4e555b;">Alexander F. Wagner</span>),  
-<i>Management Science</i>, Vol. 69, No. 11 (2023), pp. 6417–7150.
-<br>
-
-<strong style="color: #007acc; font-weight: bold;">
-  Conflicts of Interest and Market Failures in Unregulated Capital Markets: Evidence from ICO Analysts
-</strong>  
-(with <span style="text-decoration: underline; color: #4e555b;">Andreas Barth</span>, <span style="text-decoration: underline; color: #4e555b;">Sasan Mansouri</span>, and <span style="text-decoration: underline; color: #4e555b;">Alexander F. Wagner</span>),  
-Chapter in <i>Blockchain Scholars Book</i>, Forthcoming, edited by Daniel Liebau and Simon Trimborn, Springer Nature.
 
 
 
