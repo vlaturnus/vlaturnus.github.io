@@ -35,7 +35,7 @@
     </h2>
 
     {% if post.coauthors %}
-      <div class="pub-coauthors">{{ post.coauthors }}</div>
+      <a class="pub-coauthors" href="{{ post.url | relative_url }}">{{ post.coauthors }}</a>
     {% endif %}
     
     {% if post.read_time %}
