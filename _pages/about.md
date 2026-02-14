@@ -23,28 +23,32 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
 
 
 
-# Publications
+# Working Papers
 
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{%- comment -%}
+Working papers first (assumes category key is "manuscripts").
+Everything else goes under "Publications".
+{%- endcomment -%}
+
+{%- assign wp_key = "manuscripts" -%}
+
+{%- comment -%}Working papers{%- endcomment -%}
+{%- for post in site.publications reversed -%}
+  {%- if post.category == wp_key -%}
+    {%- include archive-single.html -%}
+  {%- endif -%}
+{%- endfor -%}
+
+# Publications
+
+{%- comment -%}All other categories{%- endcomment -%}
+{%- for post in site.publications reversed -%}
+  {%- if post.category != wp_key -%}
+    {%- include archive-single.html -%}
+  {%- endif -%}
+{%- endfor -%}
 
 
 
