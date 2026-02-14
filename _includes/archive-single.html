@@ -53,13 +53,21 @@
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     
     {% elsif post.collection == 'publications' %}
+  
+    {% unless post.category == 'conferences' %}
+  
       {% if post.venue %}
-        <p><i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
+        <p>
+          <i>{{ post.venue }}</i>
+          {% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+        </p>
       {% else %}
         {% if post.date %}
           <p>{{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% endif %}
       {% endif %}
+  
+    {% endunless %}
     
     {% elsif post.date %}
       <p class="page__date">
