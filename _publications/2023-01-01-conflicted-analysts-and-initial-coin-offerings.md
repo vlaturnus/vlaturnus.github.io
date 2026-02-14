@@ -1,6 +1,6 @@
 ---
 title: "Conflicted Analysts and Initial Coin Offerings"
-coauthors: "Joint with Andreas Barth, Sasan Mansouri, and Alexander F. Wagner"
+coauthors: "Joint with <span style="text-decoration: underline; color: #4e555b;">Andreas Barth</span>, <span style="text-decoration: underline; color: #4e555b;">Sasan Mansouri</span>, and <span style="text-decoration: underline; color: #4e555b;">Alexander F. Wagner</span>"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-conflicted-analysts-and-initial-coin-offerings
