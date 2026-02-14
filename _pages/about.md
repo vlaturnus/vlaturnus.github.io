@@ -12,7 +12,8 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
 <br>
 
 
-# Research Interests
+Research Interests
+======
 
 - Financial Technology
 - Blockchain Economics, Decentralized Finance
@@ -23,7 +24,8 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
 
 
 
-# Publications
+Publications
+======
 
 {% include base_path %}
 
@@ -44,8 +46,9 @@ Everything else goes under "Publications".
 <br>
 <br>
 
-# Working Papers
 
+Working Papers
+======
 {%- comment -%}All other categories{%- endcomment -%}
 {%- for post in site.publications reversed -%}
   {%- if post.category != wp_key -%}
