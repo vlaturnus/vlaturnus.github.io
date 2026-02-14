@@ -58,3 +58,23 @@
   color: #007acc !important;
   text-decoration: none !important;
 }
+
+.masthead__menu-item a[href*="/cv"],
+.masthead__menu-item a[href*="/teaching"] {
+  background: #d00000;
+  color: #ffffff !important;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+}
+
+/* Keep it consistent on hover/visited/focus */
+.masthead__menu-item a[href*="/cv"]:visited,
+.masthead__menu-item a[href*="/teaching"]:visited,
+.masthead__menu-item a[href*="/cv"]:hover,
+.masthead__menu-item a[href*="/teaching"]:hover,
+.masthead__menu-item a[href*="/cv"]:focus,
+.masthead__menu-item a[href*="/teaching"]:focus {
+  background: #d00000;
+  color: #ffffff !important;
+  text-decoration: none;
+}
