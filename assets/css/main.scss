@@ -43,8 +43,11 @@
 
 
 
-.pub-coauthors{
-  display: block;
-  margin: .35rem 0 .55rem 0;
-  text-decoration: underline;
+.pub-coauthors { display: block; margin: .35rem 0 .55rem 0; }
+
+.pub-coauthors-label { text-decoration: none; }
+
+.pub-coauthors-link,
+.pub-coauthors-link:visited {
+  text-decoration: underline !important;
 }
