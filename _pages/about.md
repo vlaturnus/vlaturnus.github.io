@@ -23,7 +23,7 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
 
 
 
-# Working Papers
+# Publications
 
 {% include base_path %}
 
@@ -41,7 +41,7 @@ Everything else goes under "Publications".
   {%- endif -%}
 {%- endfor -%}
 
-# Publications
+# Working Papers
 
 {%- comment -%}All other categories{%- endcomment -%}
 {%- for post in site.publications reversed -%}
