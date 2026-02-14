@@ -12,13 +12,14 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
 <br>
 
 
-Research Interests
-======
+# Research Interests
+
 - Financial Technology
 - Blockchain Economics, Decentralized Finance
 - Corporate Finance, Corporate Governance
 - Data Science, Machine Learning, Artificial Intelligence (AI)
-
+<br>
+<br>
 
 
 
