@@ -3,7 +3,7 @@ title: "Delegated Control, Agency Conflicts and Governance Cycles in Token-Based
 coauthors: "Michele Fabi and Romain Rossello"
 collection: publications
 category: conferences
-permalink: /publications/2026-02-01-delegated-control-agency-conflicts-and-governance-cycles
+permalink: /publication/2026-02-01-delegated-control-agency-conflicts-and-governance-cycles
 # excerpt: ''
 # date: 2026-02-01
 # venue: 'GitHub Journal of Bugs'
