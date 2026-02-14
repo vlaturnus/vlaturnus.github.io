@@ -35,7 +35,6 @@ I am an Assistant Professor of Finance at Durham University Business School. I o
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
