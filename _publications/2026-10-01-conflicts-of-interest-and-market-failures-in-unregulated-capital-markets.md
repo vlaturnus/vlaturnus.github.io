@@ -3,7 +3,7 @@ title: "Conflicts of Interest and Market Failures in Unregulated Capital Markets
 coauthors: "Joint with Andreas Barth, Sasan Mansouri, and Alexander F. Wagner"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2026-10-01-conflicts-of-interest-and-market-failures-in-unregulated-capital-markets
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2026-10-01
 venue: 'Chapter in Blockchain Scholars Book, edited by Daniel Liebau and Simon Trimborn, Springer Nature'
