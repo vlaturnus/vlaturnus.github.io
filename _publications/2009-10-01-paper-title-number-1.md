@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper studies the contribution of analysts to the functioning and failure of the market for initial coin offerings (ICOs). The assessments of freelancing analysts exhibit biases because of reciprocal interactions of analysts with ICO team members. Even favorably rated ICOs tend to fail raising some capital when a greater portion of their ratings reciprocate prior ratings. Ninety days after listing on an exchange, the market capitalization relative to the initial funds raised is smaller for tokens with more reciprocal ratings. These findings suggest that conflicts of interest help explain the failure of ICOs.'
-date: 2003
+date: 2003-01-01
 venue: 'Management Science 69 (11), 6641-6666'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
