@@ -50,10 +50,11 @@
   display: block;
   margin: .35rem 0 .55rem 0;
 }
-
 .pub-coauthors-link,
 .pub-coauthors-link:visited,
-.pub-coauthors-link:hover {
+.pub-coauthors-link:hover,
+.pub-coauthors-link:active,
+.pub-coauthors-link:focus {
   color: #007acc !important;
   text-decoration: none !important;
 }
