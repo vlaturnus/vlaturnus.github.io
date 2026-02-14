@@ -4,7 +4,7 @@ coauthors: "Alfred Lehar"
 collection: publications
 category: conferences
 permalink: /publication/2026-05-01-decentralized-autonomous-organizations
-excerpt: 'Decentralized autonomous organizations (DAOs) implement governance by code, i.e., participants make collective decisions under specified mechanisms, and outcomes are enforced on public blockchains. Many of these mechanisms (including delegation, participation incentives, dynamic voting rules, prediction markets, and AI agents) have previously been only theorized or tested in limited settings. As such, DAOs provide evidence on institutional design and governance trade-offs that would otherwise be difficult to observe. In this paper, we review these designs and synthesize evidence on stability and economic effects. Where documented, DAOs mobilize millions of dollars and coordinate investment, although most activity remains on-chain. In general, governance by code appears most effective in environments with repeated decisions and rapid feedback, where participants learn from realized outcomes and adapt governance in response to user preferences. Integration into broader ecosystems through partnerships and functional dependencies can further strengthen network effects. We conclude with directions for future research.'
+# excerpt: ''
 media_url: "https://www.youtube.com/watch?v=QZyDRweEl1w"
 media_label: "YouTube"
 # date: 2024-02-17
@@ -12,3 +12,5 @@ media_label: "YouTube"
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
+
+Decentralized autonomous organizations (DAOs) implement governance by code, i.e., participants make collective decisions under specified mechanisms, and outcomes are enforced on public blockchains. Many of these mechanisms (including delegation, participation incentives, dynamic voting rules, prediction markets, and AI agents) have previously been only theorized or tested in limited settings. As such, DAOs provide evidence on institutional design and governance trade-offs that would otherwise be difficult to observe. In this paper, we review these designs and synthesize evidence on stability and economic effects. Where documented, DAOs mobilize millions of dollars and coordinate investment, although most activity remains on-chain. In general, governance by code appears most effective in environments with repeated decisions and rapid feedback, where participants learn from realized outcomes and adapt governance in response to user preferences. Integration into broader ecosystems through partnerships and functional dependencies can further strengthen network effects. We conclude with directions for future research.
