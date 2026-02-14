@@ -1,6 +1,6 @@
 ---
 title: "Finance beyond Traditional Intermediaries: Trading and Lending in Tokenized Real Estate"
-coauthors: with Daniel Ruf and Wenqian Huang
+coauthors: "Daniel Ruf and Wenqian Huang"
 collection: publications
 category: conferences
 permalink: /publication/2026-10-01-finance-beyond-traditional-intermediaries
