@@ -21,14 +21,8 @@ Research Interests
 
 
 
-Published Papers
-======
 
-## Publications
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Publications
 
 {% include base_path %}
 
