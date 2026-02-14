@@ -59,22 +59,40 @@
   text-decoration: none !important;
 }
 
-.masthead__menu-item a[href*="/cv"],
-.masthead__menu-item a[href*="/teaching"] {
-  background: #d00000;
+/* Header nav: make CV + Teaching red pills with white text */
+header a[href$="/cv/"],
+header a[href$="/cv"],
+header a[href$="/teaching/"],
+header a[href$="/teaching"],
+nav a[href$="/cv/"],
+nav a[href$="/cv"],
+nav a[href$="/teaching/"],
+nav a[href$="/teaching"] {
+  background: #d00000 !important;
   color: #ffffff !important;
-  padding: 0.35rem 0.6rem;
+  padding: 0.25rem 0.55rem;
   border-radius: 6px;
+  display: inline-block;
 }
 
-/* Keep it consistent on hover/visited/focus */
-.masthead__menu-item a[href*="/cv"]:visited,
-.masthead__menu-item a[href*="/teaching"]:visited,
-.masthead__menu-item a[href*="/cv"]:hover,
-.masthead__menu-item a[href*="/teaching"]:hover,
-.masthead__menu-item a[href*="/cv"]:focus,
-.masthead__menu-item a[href*="/teaching"]:focus {
-  background: #d00000;
+/* keep styling on hover/visited/focus */
+header a[href$="/cv/"]:hover,
+header a[href$="/cv"]:hover,
+header a[href$="/teaching/"]:hover,
+header a[href$="/teaching"]:hover,
+nav a[href$="/cv/"]:hover,
+nav a[href$="/cv"]:hover,
+nav a[href$="/teaching/"]:hover,
+nav a[href$="/teaching"]:hover,
+header a[href$="/cv/"]:visited,
+header a[href$="/cv"]:visited,
+header a[href$="/teaching/"]:visited,
+header a[href$="/teaching"]:visited,
+nav a[href$="/cv/"]:visited,
+nav a[href$="/cv"]:visited,
+nav a[href$="/teaching/"]:visited,
+nav a[href$="/teaching"]:visited {
+  background: #d00000 !important;
   color: #ffffff !important;
-  text-decoration: none;
+  text-decoration: none !important;
 }
