@@ -41,7 +41,10 @@
     "vendor/font-awesome/brands"
 ;
 
-
+.archive__item-title a,
+.archive__item-title a:visited {
+  color: #007acc !important;
+}
 
 .pub-coauthors {
   display: block;
