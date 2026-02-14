@@ -1,5 +1,6 @@
 ---
 title: "How Do Shareholder Defaults Influence Corporate Governance in DeFi Lending?"
+coauthors: " Le (Tim) Dong and Hao Zhang"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-01-shareholder-defaults-and-governance-in-defi-lending
